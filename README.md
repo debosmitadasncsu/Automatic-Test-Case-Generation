@@ -3,16 +3,13 @@
 ### Installation Procedure
 
     git clone https://github.ncsu.edu/ddas5/HW2.git
-    cd TestGeneration 
+    cd HW2 
     npm install
 
 ### Run main.js using following command:
     node main.js
 ### Since we are using istanbul package, make sure install this package using following command:  
      npm install istanbul -G
-
-### To give input to the file use following command:
-    node main.js
     
 ### Output after executing following command for both files(subject.js/mystery.js)
     node_modules/.bin/istanbul cover test.js
