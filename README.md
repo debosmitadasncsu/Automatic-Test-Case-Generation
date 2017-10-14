@@ -2,7 +2,7 @@
 
 ### Installation Procedure
 
-    git clone 
+    git clone https://github.ncsu.edu/ddas5/HW2.git
     cd TestGeneration 
     npm install
 
