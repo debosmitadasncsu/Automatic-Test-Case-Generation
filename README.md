@@ -5,6 +5,7 @@
     git clone https://github.ncsu.edu/ddas5/HW2.git
     cd HW2 
     npm install
+    npm install cartesian-product
 
 ### Run main.js using following command:
     node main.js
