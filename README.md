@@ -1,23 +1,19 @@
-# CSC-519 DevOps HomeWork-2
 
-### Name - Debosmita Das
-### Unity Id - ddas5
-### Installation Procedure
+# Test Generation and Coverage
 
-    git clone https://github.ncsu.edu/ddas5/HW2.git
-    cd HW2 
-    npm install
-    npm install cartesian-product
+Continuous deployment and DevOps instrastructure cannot survive without tests. In this I have shown how to automatically generate tests, a process which can be triggered after a commit, or during other stages of the deployment pipeline.
 
-### Run main.js using following command:
-    node main.js
 ### Since we are using istanbul package, make sure install this package using following command:  
      npm install istanbul -G
-    
-### Output after executing following command for both files(subject.js/mystery.js)
+     
+### Run main.js using following command:
+    node main.js
+  
+### Executing following command:
     node_modules/.bin/istanbul cover test.js
-
-![file](https://github.ncsu.edu/ddas5/HW2/blob/master/Screenshots/Screen%20Shot%202017-10-13%20at%208.24.08%20PM.png)
+    
+### To help visualize coverage over the code, and get an accurate count of statements and branches you should open the following report that is generated:
+    open coverage/lcov-report/TestGeneration/subject.js.html
 
 ### Code Coverage for both Subject.js and Mystery.js
 
