@@ -17,8 +17,8 @@ Continuous deployment and DevOps instrastructure cannot survive without tests. I
 
 ### Code Coverage for both Subject.js and Mystery.js
 
-![file](https://github.ncsu.edu/ddas5/HW2/blob/master/Screenshots/Screen%20Shot%202017-10-13%20at%208.25.34%20PM.png)
+![file](https://github.com/debosmitadasncsu/Automatic-Test-Case-Generation/blob/master/Screenshots/Screen%20Shot%202017-10-13%20at%208.25.34%20PM.png)
 
-![file](https://github.ncsu.edu/ddas5/HW2/blob/master/Screenshots/Screen%20Shot%202017-10-13%20at%208.26.01%20PM.png)
+![file](https://github.com/debosmitadasncsu/Automatic-Test-Case-Generation/blob/master/Screenshots/Screen%20Shot%202017-10-13%20at%208.26.01%20PM.png)
 
 
