@@ -1,7 +1,7 @@
 
 # Test Generation and Coverage
 
-Continuous deployment and DevOps instrastructure cannot survive without tests. In this I have shown how to automatically generate tests, a process which can be triggered after a commit, or during other stages of the deployment pipeline.
+Continuous deployment and DevOps infrastructure cannot survive without tests. In this I have shown how to automatically generate tests, a process which can be triggered after a commit, or during other stages of the deployment pipeline.
 
 ### Since we are using istanbul package, make sure install this package using following command:  
      npm install istanbul -G
